@@ -1,3 +1,3 @@
 ---
-active:
-  country:jordan
+datasource:
+  test: china-datasource-two
